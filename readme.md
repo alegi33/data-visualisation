@@ -10,6 +10,7 @@ This project analyses data of a loan company and uses data exploration and visua
 ## Files used
 * prosperloan_exploration.ipynb
 * prosperLoanData.csv
+* prosperloan_slide.ipynb
 
 ## Dataset
 The dataset consists of 14897 records of irrecoverable loans. Some data wrangling was done to remove missing values and assign ordered categorical data types to some records, such as Credit Rating and Income Range.
